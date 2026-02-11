@@ -864,7 +864,17 @@ body {
   width: 100%;
   height: 100vh;
   background: linear-gradient(180deg, #f4f4f4 0%, #efefef 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
+.test__boot {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+}
+
 
 .header__section {
   /* background-image: url(../img/header-bg.jpg);
