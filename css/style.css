@@ -860,6 +860,12 @@ body {
   transform: translateX(-50%);
 }
 
+.test {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(180deg, #f4f4f4 0%, #efefef 100%);
+}
+
 .header__section {
   /* background-image: url(../img/header-bg.jpg);
   background-repeat: no-repeat;
